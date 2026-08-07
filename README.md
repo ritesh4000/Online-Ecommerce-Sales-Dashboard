@@ -1,5 +1,22 @@
 # Online-Ecommerce-Sales-Dashboard
 
+# 📊 Olist E-Commerce Dashboard
+
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Dashboard Preview](#dashboard-preview)
+- [Key KPIs](#key-kpis)
+- [Dashboard Pages](#dashboard-pages)
+- [Key Insights](#key-insights)
+- [Data Model](#data-model)
+- [Data Cleaning](#data-cleaning)
+- [Tools & Technologies](#tools--technologies)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Project Files](#project-files)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
 ## 📌 Project Overview
 
 This Power BI dashboard analyzes the Olist Brazilian E-Commerce dataset to provide business insights into sales, customers, products, sellers, payments, and delivery performance.
