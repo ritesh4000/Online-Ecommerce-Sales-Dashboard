@@ -103,7 +103,7 @@ This page analyzes:
 ---
 
 
-## 🔗 Delivery analysis()<img width="1518" height="827" alt="04_Delivery_Analysis png" src="https://github.com/user-attachments/assets/fc2bfc02-98c8-41c0-9fd3-2a8e03759565" />
+## 🔗 Delivery analysis<img width="1518" height="827" alt="04_Delivery_Analysis png" src="https://github.com/user-attachments/assets/fc2bfc02-98c8-41c0-9fd3-2a8e03759565" />
 
 
 * Estimated Delivery Date
