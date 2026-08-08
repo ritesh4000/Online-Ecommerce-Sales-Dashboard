@@ -118,7 +118,8 @@ This page analyzes:
 
 ## 🔗 Data Model
 
-![Data Model](Images/05_Data_Model.png)
+![Data Model]()<img width="1437" height="817" alt="05_Data_Model png" src="https://github.com/user-attachments/assets/ee28e384-8935-4b67-91a0-d37e9de4b721" />
+
 
 The Power BI data model shows relationships between important tables such as:
 
