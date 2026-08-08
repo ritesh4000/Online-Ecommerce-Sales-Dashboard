@@ -137,7 +137,8 @@ A proper relational model helps create accurate and efficient analysis.
 
 ## 🧹 Data Cleaning & Transformation
 
-![Data Cleaning](Images/06_Data_Cleaning.png)
+![Data Cleaning]()<img width="1880" height="1073" alt="06_Data_Cleaning png" src="https://github.com/user-attachments/assets/7a98c9d1-934e-4a49-ac5c-842b4719458b" />
+
 
 Data preparation was performed using **Power Query**.
 
