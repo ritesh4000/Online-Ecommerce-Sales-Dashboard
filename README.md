@@ -86,9 +86,10 @@ This page focuses on:
 
 ---
 
-## 👥 Customer Analysis
+## 👥 Region Analysis
 
-![Customer Analysis](Images/03_Customer_Analysis.png)
+![Region Analysis](<img width="1540" height="840" alt="03_Region_Analysis png" src="https://github.com/user-attachments/assets/d3810fb8-2d4f-495b-aa46-6e9ef8198b58" />)
+
 
 This page analyzes:
 
