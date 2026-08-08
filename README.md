@@ -88,7 +88,8 @@ This page focuses on:
 
 ## 👥 Region Analysis
 
-![Region Analysis](<img width="1540" height="840" alt="03_Region_Analysis png" src="https://github.com/user-attachments/assets/d3810fb8-2d4f-495b-aa46-6e9ef8198b58" />)
+![Region Analysis]()<img width="1540" height="840" alt="03_Region_Analysis png" src="https://github.com/user-attachments/assets/79733d03-2986-43f6-a58c-5006a1b6b2aa" />
+
 
 
 This page analyzes:
