@@ -70,9 +70,9 @@ The main dashboard provides an executive-level overview of the business using KP
 
 ---
 
-## 💰 Sales Analysis
+## 💰 Product Analysis
 
-![Sales Analysis]()<img width="1497" height="856" alt="02_Sales_Analysis png" src="https://github.com/user-attachments/assets/aaee0921-a163-4e17-bb6c-d75276efd8a7" />
+![Product Analysis]()<img width="1497" height="856" alt="02_Sales_Analysis png" src="https://github.com/user-attachments/assets/aaee0921-a163-4e17-bb6c-d75276efd8a7" />
 
 
 This page focuses on:
