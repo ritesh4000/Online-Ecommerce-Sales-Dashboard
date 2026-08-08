@@ -62,7 +62,8 @@ This project answers questions such as:
 
 ## 🏠 Main Dashboard
 
-![Main Dashboard](Images/01_Main_Dashboard.png)
+![Main Dashboard](<img width="1522" height="842" alt="01_Main_Dashboard png" src="https://github.com/user-attachments/assets/f91dc2cb-42d9-479d-8312-08d578276e60" />
+)
 
 The main dashboard provides an executive-level overview of the business using KPIs, charts, filters, and interactive visualizations.
 
