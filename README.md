@@ -179,7 +179,7 @@ The project contains multiple analytical sections:
 
 Overall business performance and KPIs.
 
-### 2. 💰 Sales Analysis
+### 2. 💰 product Analysis
 
 Sales and order trends across time and categories.
 
@@ -187,7 +187,7 @@ Sales and order trends across time and categories.
 
 Customer distribution and purchasing behavior.
 
-### 4. 📦 Product Analysis
+### 4. 📦 region Analysis
 
 Product and category performance.
 
