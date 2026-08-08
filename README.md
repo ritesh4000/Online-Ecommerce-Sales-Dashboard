@@ -205,7 +205,7 @@ Customer satisfaction and review scores.
 
 The dashboard can be used to identify insights such as:
 
-### 📌 Sales
+### 📌 product
 
 * Identify periods with the highest sales.
 * Analyze sales trends over time.
@@ -217,7 +217,7 @@ The dashboard can be used to identify insights such as:
 * Understand geographic customer distribution.
 * Analyze customer purchasing patterns.
 
-### 📌 Products
+### 📌 region
 
 * Identify top-performing product categories.
 * Find products with high demand.
