@@ -424,20 +424,6 @@ This project demonstrates the following Data Analyst skills:
 
 ---
 
-# 🔗 Dashboard Navigation
-
-| Section              | Link                                                      |
-| -------------------- | --------------------------------------------------------- |
-| 🏠 Main Dashboard    | [View Dashboard](Images/01_Main_Dashboard.png)            |
-| 💰 Sales Analysis    | [View Sales Analysis](Images/02_Sales_Analysis.png)       |
-| 👥 Customer Analysis | [View Customer Analysis](Images/03_Customer_Analysis.png) |
-| 📦 Product Analysis  | [View Product Analysis](Images/04_Product_Analysis.png)   |
-| 🔗 Data Model        | [View Data Model](Images/05_Data_Model.png)               |
-| 🧹 Data Cleaning     | [View Data Cleaning](Images/06_Data_Cleaning.png)         |
-| 📊 Power BI File     | [Download/View PBIX](Olist%20E-Commerce%20Dashboard.pbix) |
-| 📄 Dashboard PDF     | [View Dashboard PDF](Olist%20Dashboard.pdf)               |
-
----
 
 # 🚀 Future Improvements
 
