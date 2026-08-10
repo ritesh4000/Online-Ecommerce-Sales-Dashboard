@@ -155,6 +155,20 @@ Major steps included:
 
 ---
 
+## 💡 Key Business Insights
+ 
+   ![ Key Business Insights]().<img width="1528" height="846" alt="06 Key_Insights png" src="https://github.com/user-attachments/assets/1fc1c285-f8db-4349-98b1-7c8407e03cfd" />
+ 
+   
+* $16.01M total revenue from 96K orders and 99K customers.
+* Product revenue reached $13.6M.
+* Beleza Saude and Relogios Presentes are strong revenue contributors.
+* São Paulo generated the highest revenue at approximately $5.8M.
+* Rio de Janeiro and Minas Gerais are other major revenue contributors.
+* Roraima, Amapá, and Amazonas have the highest average delivery times.
+* Revenue is concentrated in a few regions, creating regional dependency risk.
+* Improving logistics in slower regions can help reduce delays and improve customer experience.
+
 # 📈 Key KPIs
 
 The dashboard focuses on important business KPIs such as:
